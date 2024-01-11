@@ -1,0 +1,1 @@
+window.location.href = "ismaelvg.me/My_Portfolio/";
